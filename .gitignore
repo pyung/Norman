@@ -1,7 +1,3 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gitignore
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/pyung_bot.iml
-.idea/workspace.xml
+.idea
+LICENSE
