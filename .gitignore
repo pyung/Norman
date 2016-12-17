@@ -1,15 +1,7 @@
-.env
-/.tox/
-*.pyc
-*#
-*~
-*.swp
-#*
-local_settings.py
-local_test_settings.py
-slackbot_settings.py
-slackbot_test_settings.py
-/build
-/dist
-/*.egg-info
-.cache
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/pyung_bot.iml
+.idea/workspace.xml

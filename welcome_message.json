@@ -1,0 +1,13 @@
+{
+    "attachments": [
+        {
+        "mrkdwn_in": ["text"],
+        "author_name": "Welcome",
+        "author_link": "https://get.slack.help/hc/en-us/articles/206870317-Emoji-reactions",
+        "text": ":white_large_square: **",
+        "fields": [{
+            "value": "You're here now. The day is better.."
+        }]
+    }
+    ]
+}
